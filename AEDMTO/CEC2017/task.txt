@@ -1,0 +1,13 @@
+Ps = [
+		CI_HS(), 
+		CI_MS(), 
+		CI_LS(), 
+		PI_HS(), 
+		PI_MS(), 
+		PI_LS(), 
+		NI_HS(), 
+		NI_MS(), 
+		NI_LS(), 
+]
+It's a general method to generate CEC2017 task code for python version.
+Copy the codes above to the python code file.
